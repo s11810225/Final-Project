@@ -1,0 +1,11 @@
+.list-movies{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 1rem;
+}
+.menu:hover{
+  text-decoration: none;
+}
+.space{
+  background-color: blue;
+}
